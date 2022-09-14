@@ -29,7 +29,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications
 1. **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
 
-   RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection. MM 2022 (CCF A)
+   RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection. MM 2022 (CCF A, oral)
    
 2. **Rundong He**; Zhongyi Han; Yilong Yin. 
 
