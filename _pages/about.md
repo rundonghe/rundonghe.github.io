@@ -29,7 +29,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications
 1. **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
-   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. (Submited to PR)
+   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. (Submitted to PR)
 
 2. **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
 
