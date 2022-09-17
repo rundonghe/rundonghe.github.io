@@ -31,7 +31,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications
 * Zhongyi Han; Wan Su; **Rundong He**; Yilong Yin
 
-  SNAIL: Semi-Separated Uncertainty Adversarial Learning for Universal Domain Adaptation, has been accepted for the conference. ACML 2022
+  SNAIL: Semi-Separated Uncertainty Adversarial Learning for Universal Domain Adaptation. ACML 2022
 
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
