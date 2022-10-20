@@ -27,6 +27,8 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 **Services [Program committee or reviewer for conferences] :**
 * AAAI 2023
 
+## Recent News
+* 2022/10/19: National Scholarship (2021-2022).
 
 ## Publications
 * Zhongyi Han; Wan Su; **Rundong He**; Yilong Yin
