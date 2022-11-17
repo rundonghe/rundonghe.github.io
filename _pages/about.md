@@ -29,7 +29,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * CVPR 2023
 
 ## Recent News
-* 2022/11/17: Ph.D. Presidential Scholarship (2021-2022)
+* 2022/11/17: Ph.D. President's Scholarship (2021-2022)
 * 2022/10/19: Ph.D. National Scholarship (2021-2022).
 * 2022/09/17: 1 paper accepted to ACML 2022.
 * 2022/06/30: 1 paper (oral) accepted to ACMMM 2022.
