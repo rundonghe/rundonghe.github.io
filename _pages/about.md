@@ -29,6 +29,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * CVPR 2023
 
 ## Recent News
+* 2022/11/19: 1 paper accepted to AAAI 2023.
 * 2022/11/17: Ph.D. President's Scholarship (2021-2022)
 * 2022/10/19: Ph.D. National Scholarship (2021-2022).
 * 2022/09/17: 1 paper accepted to ACML 2022.
@@ -42,6 +43,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Publications
+* Zhongyi Han; Zhiyan Zhang; Fan Wang; **Rundong He**; Wan Su; Yilong Yin
+
+  Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation
+
 * Zhongyi Han; Wan Su; **Rundong He**; Yilong Yin
 
   SNAIL: Semi-Separated Uncertainty Adversarial Learning for Universal Domain Adaptation. ACML 2022
