@@ -45,7 +45,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications
 * Zhongyi Han; Zhiyan Zhang; Fan Wang; **Rundong He**; Wan Su; Yilong Yin
 
-  Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation
+  Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation. AAAI 2023 (CCF A). 
 
 * Zhongyi Han; Wan Su; **Rundong He**; Yilong Yin
 
