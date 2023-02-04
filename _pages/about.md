@@ -27,6 +27,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 **Services [Program committee or reviewer for conferences] :**
 * AAAI 2023
 * CVPR 2023
+* ICML 2023
 
 ## Recent News
 * 2022/11/19: 1 paper accepted to AAAI 2023.
