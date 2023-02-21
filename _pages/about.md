@@ -44,6 +44,25 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Publications
+
+### Conference
+
+* **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
+
+   RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection. MM 2022 (CCF A, oral)
+   
+* **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
+
+   Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. CVPR 2022 (CCF A). 
+
+* **Rundong He**; Zhongyi Han; Yang Yang; Yilong Yin. 
+
+   Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch. AAAI 2022 (CCF A, oral).
+   
+* **Rundong He**, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin.
+
+   Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. CICAI 2021 [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93049-3_29.pdf)
+
 * Zhongyi Han; Zhiyan Zhang; Fan Wang; **Rundong He**; Wan Su; Yilong Yin
 
   Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation. AAAI 2023 (CCF A). 
@@ -51,34 +70,21 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * Zhongyi Han; Wan Su; **Rundong He**; Yilong Yin
 
   SNAIL: Semi-Separated Uncertainty Adversarial Learning for Universal Domain Adaptation. ACML 2022
+  
+* Zhongyi Han, **Rundong He**, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin.
+
+   Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (IPMI 2021, 医学顶会). [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-78191-0_47.pdf)
+
+
+### Journal
 
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
    Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. (Submitted to PR)
 
-* **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
-
-   RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection. MM 2022 (CCF A, oral)
-   
 * **Rundong He**; Zhongyi Han; Yilong Yin. 
 
    Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift. KBS (JCR Q1), 2022.
-
-* **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
-
-   Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. CVPR 2022 (CCF A). 
-
-* **Rundong He**; Zhongyi Han; Yang Yang; Yilong Yin. 
-
-   Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch. AAAI 2022 (CCF A, oral). 
-   
-* **Rundong He**, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin.
-
-   Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. CICAI 2021 [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93049-3_29.pdf)
-
-* Zhongyi Han, **Rundong He**, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin.
-
-   Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (IPMI 2021, 医学顶会). [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-78191-0_47.pdf)
 
 * Yu Zhang, Xiushan Nie, **Rundong He**, Meng Chen, Yilong Yin.
 
