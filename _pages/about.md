@@ -64,7 +64,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
    Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. CICAI 2021 [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93049-3_29.pdf)
 
-* Fan Wang; Zhongyi Han; Zhiyan Zhang; **Rundong He**; Wan Su; Yilong Yin
+* Fan Wang; Zhongyi Han; Zhiyan Zhang; **Rundong He**; Yilong Yin
 
   MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation. CVPR 2023 (CCF A). 
 
