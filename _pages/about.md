@@ -30,6 +30,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * ICML 2023
 
 ## Recent News
+* 2023/02/08: 1 paper accepted to CVPR 2023.
 * 2022/11/19: 1 paper accepted to AAAI 2023.
 * 2022/11/17: Ph.D. President's Scholarship (2021-2022)
 * 2022/10/19: Ph.D. National Scholarship (2021-2022).
@@ -62,6 +63,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * **Rundong He**, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin.
 
    Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. CICAI 2021 [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93049-3_29.pdf)
+
+* Fan Wang; Zhongyi Han; Zhiyan Zhang; **Rundong He**; Wan Su; Yilong Yin
+
+  MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation. CVPR 2023 (CCF A). 
 
 * Zhongyi Han; Zhiyan Zhang; Fan Wang; **Rundong He**; Wan Su; Yilong Yin
 
