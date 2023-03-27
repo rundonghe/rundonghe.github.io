@@ -28,6 +28,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * AAAI 2023
 * CVPR 2023
 * ICML 2023
+* NeurIPS 2023
 
 ## Recent News
 * 2023/02/08: 1 paper accepted to CVPR 2023.
