@@ -25,10 +25,13 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
-* AAAI 2023
-* CVPR 2023
-* ICML 2023
+* ACM MM 2023
 * NeurIPS 2023
+* ICML 2023
+* CVPR 2023
+* AAAI 2023
+
+
 
 ## Recent News
 * 2023/02/08: 1 paper accepted to CVPR 2023.
