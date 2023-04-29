@@ -44,8 +44,8 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * 2022/05/20: 1 paper accepted to KBS.
 * 2022/03/03: 1 papers accepted to CVPR 2022.
 * 2021/12/01: 1 paper (oral) accepted to AAAI 2022.
-* 2021/05/31: 1 paper accepted to CICAI 2022.
-* 2020/12/02: 1 paper accepted to IPMI 2022.
+* 2021/05/31: 1 paper accepted to CICAI 2021.
+* 2020/12/02: 1 paper accepted to IPMI 2021.
 * 2020/11/23: 1 paper accepted to TCSVT.
 
 
