@@ -35,6 +35,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2023/05/12: 1 paper accepted to PR.
 * 2023/02/08: 1 paper accepted to CVPR 2023.
 * 2022/11/19: 1 paper accepted to AAAI 2023.
 * 2022/11/17: Ph.D. President's Scholarship (2021-2022)
@@ -87,7 +88,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ### Journal
+* Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
 
+   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. PR (JCR Q1), 2023
+   
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
    Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. (Submitted to PR)
