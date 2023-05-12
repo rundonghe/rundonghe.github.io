@@ -90,7 +90,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ### Journal
 * Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
 
-   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. PR (JCR Q1), 2023
+  Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation. PR (JCR Q1), 2023
    
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
