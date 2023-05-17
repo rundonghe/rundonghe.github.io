@@ -35,6 +35,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2023/05/17: 1 paper accepted to TKDE.
 * 2023/05/12: 1 paper accepted to PR.
 * 2023/02/08: 1 paper accepted to CVPR 2023.
 * 2022/11/19: 1 paper accepted to AAAI 2023.
@@ -88,6 +89,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ### Journal
+* **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin
+
+  SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. TKDE (CCF A), 2023
+
 * Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
 
   Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation. PR (JCR Q1), 2023
