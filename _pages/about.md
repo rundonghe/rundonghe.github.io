@@ -37,6 +37,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2023/07/26: 2 papers accepted to ACMMM 2023.
 * 2023/05/17: 1 paper accepted to TKDE.
 * 2023/05/12: 1 paper accepted to PR.
 * 2023/02/08: 1 paper accepted to CVPR 2023.
@@ -56,6 +57,14 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications
 
 ### Conference
+   
+* **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
+
+   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. MM 2023 (CCF A)
+
+* Yue Yuan; **Rundong He**; Zhongyi Han; Yilong Yin.
+  
+   LHAct: Rectifying Extremely Low and High Activations for Out-of-Distribution Detection. MM 2023 (CCF A)
 
 * **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
 
@@ -98,10 +107,6 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
 
   Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation. PR (JCR Q1), 2023
-   
-* **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
-
-   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. (Submitted to PR)
 
 * **Rundong He**; Zhongyi Han; Yilong Yin. 
 
