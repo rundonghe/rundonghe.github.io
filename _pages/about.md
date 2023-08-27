@@ -25,6 +25,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
+* ICLR 2024
 * TKDE
 * AAAI 2024
 * CICAI 2023
