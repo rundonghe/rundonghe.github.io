@@ -101,6 +101,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ### Journal
+* Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, **Rundong He**, Yilong Yin
+
+Learning Sample-Aware Confidence Threshold for Semi-Supervised Learning. Machine Learning Journal (MLJ) (CCF B), 2023.
+
 * **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin
 
   SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. TKDE (CCF A), 2023
