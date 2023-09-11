@@ -38,6 +38,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2023/09/11: 1 paper accepted to Machine Learning Journal.
 * 2023/07/26: 2 papers accepted to ACMMM 2023.
 * 2023/05/17: 1 paper accepted to TKDE.
 * 2023/05/12: 1 paper accepted to PR.
