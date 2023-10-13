@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org)
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org).
 
 
 
