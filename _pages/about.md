@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/).
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org)
 
 
 
 **Research Direction**：
 
-Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning
-
+Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning; AI for Science
 
 
 **Education :**
@@ -27,13 +26,12 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 **Services [Program committee or reviewer for conferences] :**
 * ICLR 2024
 * TKDE
-* AAAI 2024
 * CICAI 2023
 * ACM MM 2023
 * NeurIPS 2023
 * ICML 2023
 * CVPR 2023
-* AAAI 2023
+* AAAI 2023-2024
 
 
 
