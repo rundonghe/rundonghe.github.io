@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org). I plan to graduate in June 2024 and do postdoctoral work after that. At present, I urgently need to find two undergraduate scientific research assistants （本科科研助手） with self-drive ability to participate in the current scientific research, and I will try to lead them to publish top conference and journal papers.
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org). I plan to graduate in June 2024 and do postdoctoral work after that. 
 
 
 
@@ -24,6 +24,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
+* Neural Networks
 * ICLR 2024
 * TKDE
 * CICAI 2023
