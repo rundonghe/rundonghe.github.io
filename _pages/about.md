@@ -60,7 +60,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ### Conference
 * **Rundong He**; Yue Yuan; Zhongyi Han; Fan Wang; Wan Su; Yilong Yin; Tongliang Liu; Yongshun Gong.
   
-   Topological Structure Learning for Weakly-Supervised Out-of-Distribution Detection. AAAI 2024 (CCF A)
+   Exploring Channel-Aware Typical Features for Out-of-Distribution Detection. AAAI 2024 (CCF A)
    
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
