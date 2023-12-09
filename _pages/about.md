@@ -30,7 +30,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * CICAI 2023
 * ACM MM 2023
 * NeurIPS 2023
-* ICML 2023
+* ICML 2023-2024
 * CVPR 2023
 * AAAI 2023-2024
 
