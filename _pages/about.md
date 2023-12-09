@@ -14,7 +14,7 @@ I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong Univers
 
 **Research Direction**：
 
-Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning; AI for Science
+Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning; AI for Science; Graph learning
 
 
 **Education :**
@@ -37,6 +37,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2023/12/09: 1 paper accepted to AAAI 2024.
 * 2023/09/11: 1 paper accepted to Machine Learning Journal.
 * 2023/07/26: 2 papers accepted to ACMMM 2023.
 * 2023/05/17: 1 paper accepted to TKDE.
