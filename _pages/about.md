@@ -77,7 +77,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
    
 * **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
 
-   Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. CVPR 2022 (CCF A). 
+   Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. CVPR 2022 (CCF A). [code](https://github.com/Zhanlo/Safe-Student)
 
 * **Rundong He**; Zhongyi Han; Yang Yang; Yilong Yin. 
 
