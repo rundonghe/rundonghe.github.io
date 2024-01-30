@@ -61,7 +61,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ### Conference
 * **Rundong He**; Yue Yuan; Zhongyi Han; Fan Wang; Wan Su; Yilong Yin; Tongliang Liu; Yongshun Gong.
   
-   Exploring Channel-Aware Typical Features for Out-of-Distribution Detection. AAAI 2024 (CCF A)
+   Exploring Channel-Aware Typical Features for Out-of-Distribution Detection. AAAI 2024 (CCF A) [code](https://github.com/rm1972/LAPS.git)
    
 * **Rundong He**; Rongxue Li; Zhongyi Han; Yilong Yin.
 
@@ -69,7 +69,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 * Yue Yuan; **Rundong He**; Zhongyi Han; Yilong Yin.
   
-   LHAct: Rectifying Extremely Low and High Activations for Out-of-Distribution Detection. MM 2023 (CCF A)
+   LHAct: Rectifying Extremely Low and High Activations for Out-of-Distribution Detection. MM 2023 (CCF A) [code](https://github.com/ystyuan/LHAct.git)
 
 * **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin. 
 
