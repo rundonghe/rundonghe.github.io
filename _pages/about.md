@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I am currently doing research at Westlake University with [Prof. Tailin Wu](https://tailin.org). I plan to graduate in June 2024 and do postdoctoral work after that. 
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I have done research at Westlake University with [Prof. Tailin Wu](https://tailin.org) in 2023.09-2024.02. I plan to graduate in June 2024 and do postdoctoral work after that. 
 
 
 
@@ -24,6 +24,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
+* IJCAI 2024
 * Neural Networks
 * ICLR 2024
 * TKDE
@@ -56,9 +57,13 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * 2020/11/23: 1 paper accepted to TCSVT.
 
 
-## Publications
+## Publications 
 
 ### Conference
+* Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
+  
+   Discriminability-Driven Channel Selection for Out-of-Distribution Detection. CVPR 2024 (CCF A)
+
 * **Rundong He**; Yue Yuan; Zhongyi Han; Fan Wang; Wan Su; Yilong Yin; Tongliang Liu; Yongshun Gong.
   
    Exploring Channel-Aware Typical Features for Out-of-Distribution Detection. AAAI 2024 (CCF A) [code](https://github.com/rm1972/LAPS.git)
