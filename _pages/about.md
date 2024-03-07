@@ -38,6 +38,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2024/03/05: 1 paper accepted to ICLR 2024 Workshop ME-FoMo.
 * 2024/02/27: 1 paper accepted to CVPR 2024.
 * 2023/12/09: 1 paper accepted to AAAI 2024.
 * 2023/09/11: 1 paper accepted to Machine Learning Journal.
