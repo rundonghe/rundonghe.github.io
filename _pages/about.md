@@ -60,8 +60,14 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Publications 
+### Preprint
 
-### Conference
+* Hao Sun, **Rundong He***, Zhongyi Han, Zhicong Lin, Yongshun Gong, Yilong Yin  (Note: * denotes the corresponding author)
+  
+   CLIP-driven Outliers Synthesis for few-shot OOD detection.  [paper](https://arxiv.org/abs/2404.00323)
+
+### Accepted Conference
+  
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
    Discriminability-Driven Channel Selection for Out-of-Distribution Detection. CVPR 2024 (CCF A)
@@ -88,7 +94,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 * **Rundong He**; Zhongyi Han; Yang Yang; Yilong Yin. 
 
-   Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch. AAAI 2022 (CCF A, oral).
+   Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch. AAAI 2022 (CCF A, oral). [code](https://github.com/Zhanlo/SPL)
    
 * **Rundong He**, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin.
 
@@ -111,7 +117,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
    Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (IPMI 2021, 医学顶会). [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-78191-0_47.pdf)
 
 
-### Journal
+### Accepted Journal
 * Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, **Rundong He**, Yilong Yin.
 
   Learning Sample-Aware Confidence Threshold for Semi-Supervised Learning. Machine Learning Journal (MLJ) (CCF B), 2023.
