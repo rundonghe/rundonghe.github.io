@@ -70,7 +70,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
   
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
-   Discriminability-Driven Channel Selection for Out-of-Distribution Detection. CVPR 2024 (CCF A)
+   Discriminability-Driven Channel Selection for Out-of-Distribution Detection. CVPR 2024 (CCF A) [code](https://github.com/ystyuan/DDCS)
 
 * **Rundong He**; Yue Yuan; Zhongyi Han; Fan Wang; Wan Su; Yilong Yin; Tongliang Liu; Yongshun Gong.
   
