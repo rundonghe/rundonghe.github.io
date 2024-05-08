@@ -24,13 +24,14 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
+* TNNLS
 * IJCAI 2024
 * Neural Networks
 * ICLR 2024
 * TKDE
 * CICAI 2023
 * ACM MM 2023
-* NeurIPS 2023
+* NeurIPS 2023-2024
 * ICML 2023-2024
 * CVPR 2023
 * AAAI 2023-2024
