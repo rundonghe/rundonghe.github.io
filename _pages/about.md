@@ -69,10 +69,6 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
    CLIP-driven Outliers Synthesis for few-shot OOD detection.  [paper](https://arxiv.org/abs/2404.00323)
 
 ### Accepted Conference
-
-* **Rundong He**, Zhongyi Han, Xiushan Nie, Yilong Yin, Xiaojun Chang.
-
-   Visual Out-of-Distribution Detection in Open-Set Noisy Environments. International Journal of Computer Vision (IJCV) 2024 (CCF A)
   
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
@@ -124,21 +120,26 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ### Accepted Journal
-* Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, **Rundong He**, Yilong Yin.
 
-  Learning Sample-Aware Confidence Threshold for Semi-Supervised Learning. Machine Learning Journal (MLJ) (CCF B), 2023.
+* **Rundong He**, Zhongyi Han, Xiushan Nie, Yilong Yin, Xiaojun Chang.
 
+   Visual Out-of-Distribution Detection in Open-Set Noisy Environments. International Journal of Computer Vision (IJCV) (CCF A), 2024.
+  
 * **Rundong He**; Zhongyi Han; Xiankai Lu; Yilong Yin.
 
-  SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. TKDE (CCF A), 2023
-
-* Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
-
-  Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation. PR (JCR Q1), 2023
+   SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data. TKDE (CCF A), 2023.
 
 * **Rundong He**; Zhongyi Han; Yilong Yin. 
 
    Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift. KBS (JCR Q1), 2022.
+
+* Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, **Rundong He**, Yilong Yin.
+
+   Learning Sample-Aware Confidence Threshold for Semi-Supervised Learning. Machine Learning Journal (MLJ) (CCF B), 2023.
+
+* Wan Su; Zhongyi Han; **Rundong He**; Benzheng Wei, Xueying He, and Yilong Yin.
+
+   Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation. PR (JCR Q1), 2023
 
 * Yu Zhang, Xiushan Nie, **Rundong He**, Meng Chen, Yilong Yin.
 
