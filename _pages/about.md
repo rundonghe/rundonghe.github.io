@@ -68,7 +68,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
   
    CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
 
-* Qikai Wang, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the corresponding author)
+* Qikai Wang#, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the co-first author)
 
    Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. [paper](https://arxiv.org/abs/2405.16093)
 
