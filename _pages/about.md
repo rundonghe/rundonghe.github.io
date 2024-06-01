@@ -39,6 +39,7 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 
 ## Recent News
+* 2024/05/31: 1 paper accepted to IJCV.
 * 2024/03/05: 1 paper accepted to ICLR 2024 Workshop ME-FoMo.
 * 2024/02/27: 1 paper accepted to CVPR 2024.
 * 2023/12/09: 1 paper accepted to AAAI 2024.
@@ -68,6 +69,10 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
    CLIP-driven Outliers Synthesis for few-shot OOD detection.  [paper](https://arxiv.org/abs/2404.00323)
 
 ### Accepted Conference
+
+* **Rundong He**, Zhongyi Han, Xiushan Nie, Yilong Yin, Xiaojun Chang.
+
+   Visual Out-of-Distribution Detection in Open-Set Noisy Environments. International Journal of Computer Vision (IJCV) 2024 (CCF A)
   
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
