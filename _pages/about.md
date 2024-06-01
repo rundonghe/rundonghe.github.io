@@ -64,9 +64,13 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 ## Publications 
 ### Preprint
 
-* Hao Sun, **Rundong He***, Zhongyi Han, Zhicong Lin, Yongshun Gong, Yilong Yin  (Note: * denotes the corresponding author)
+* Hao Sun, **Rundong He***, Zhongyi Han, Zhicong Lin, Yongshun Gong, Yilong Yin.  (Note: * denotes the corresponding author)
   
-   CLIP-driven Outliers Synthesis for few-shot OOD detection.  [paper](https://arxiv.org/abs/2404.00323)
+   CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
+
+* Qikai Wang, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the corresponding author)
+
+   Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. [paper](https://arxiv.org/abs/2405.16093)
 
 ### Accepted Conference
   
