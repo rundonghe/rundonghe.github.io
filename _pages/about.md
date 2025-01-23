@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I have done research at Westlake University with [Prof. Tailin Wu](https://tailin.org) in 2023.09-2024.02. I plan to graduate in June 2024 and do postdoctoral work after that. 
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Zhongyi Han](https://zhyhan.github.io/). In addition, I have done research at Westlake University with [Prof. Tailin Wu](https://tailin.org) in 2023.09-2024.02. Currently doing a postdoc with [Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/) at Hong Kong Polytechnic University.
 
 
 
 **Research Direction**：
 
-Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning; AI for Science; Graph learning
+Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph learning; Tabular learning
 
 
 **Education :**
 
-2019.09-present: Ph.D. candidate in Shandong University (Jinan).
+2024.11-now: Postdoc in Hong Kong Polytechnic University（Hong Kong）
+
+2019.09-2024.06: Ph.D. candidate in Shandong University (Jinan).
 
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
@@ -27,18 +29,20 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 * TNNLS
 * IJCAI 2024
 * Neural Networks
-* ICLR 2024
+* ICLR 2024-2025
 * TKDE
 * CICAI 2023
 * ACM MM 2023
 * NeurIPS 2023-2024
-* ICML 2023-2024
+* ICML 2023-2024-2025
 * CVPR 2023
 * AAAI 2023-2024
 
 
 
 ## Recent News
+* 2025/01/23: 1 paper accepted to ICLR.
+* 2024/12/03: 1 paper accepted to BIBM.
 * 2024/05/31: 1 paper accepted to IJCV.
 * 2024/03/05: 1 paper accepted to ICLR 2024 Workshop ME-FoMo.
 * 2024/02/27: 1 paper accepted to CVPR 2024.
@@ -73,6 +77,13 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
    Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. [paper](https://arxiv.org/abs/2405.16093)
 
 ### Accepted Conference
+* **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
+
+  Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) 
+
+* Wan Su; Fan Wang; **Rundong He**; Zhongyi Han; Yilong Yin
+
+  Navigating the Unknown: A Novel MGUAN Framework for Medical Image Recognition Across Dynamic Domains. BIBM 2024 (CCF B)
   
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
