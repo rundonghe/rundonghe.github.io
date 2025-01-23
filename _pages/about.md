@@ -19,7 +19,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 **Education :**
 
-2024.11-now: Postdoc in Hong Kong Polytechnic University（Hong Kong）
+2024.11-now: Postdoc in Hong Kong Polytechnic University (Hong Kong).
 
 2019.09-2024.06: Ph.D. candidate in Shandong University (Jinan).
 
