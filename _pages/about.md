@@ -38,9 +38,8 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * CVPR 2023
 * AAAI 2023-2024
 
-
-
 ## Recent News
+* 2025/02/28: 1 paper accepted to Neural Networks.
 * 2025/01/23: 1 paper accepted to ICLR 2025.
 * 2024/12/03: 1 paper accepted to BIBM 2024. 
 * 2024/05/31: 1 paper accepted to IJCV.
@@ -72,11 +71,11 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
   
    CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
 
+### Accepted Conference
 * Qikai Wang#, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the co-first author)
-
+  
    Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. [paper](https://arxiv.org/abs/2405.16093)
 
-### Accepted Conference
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
 
   Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) 
