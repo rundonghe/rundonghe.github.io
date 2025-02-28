@@ -72,9 +72,6 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
    CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
 
 ### Accepted Conference
-* Qikai Wang#, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the co-first author)
-  
-   Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. [paper](https://arxiv.org/abs/2405.16093)
 
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
 
@@ -146,6 +143,10 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * **Rundong He**; Zhongyi Han; Yilong Yin. 
 
    Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift. KBS (JCR Q1), 2022.
+
+* Qikai Wang#, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the co-first author)
+  
+   Diverse Teacher-Students for Deep Safe Semi-Supervised Learning under Class Mismatch. Neural Networks (SCI 1区), 2025. [paper](https://arxiv.org/abs/2405.16093)
 
 * Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, **Rundong He**, Yilong Yin.
 
