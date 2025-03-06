@@ -67,6 +67,10 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 ## Publications 
 ### Preprint
 
+* Yicong Dong, **Rundong He***, Guangyao Chen, Wentao Zhang, Zhongyi Han, Jieming Shi, Yilong Yin.
+
+   G-OSR: A Comprehensive Benchmark for Graph Open-Set Recognition. [paper](https://arxiv.org/abs/2503.00476)
+
 * Hao Sun, **Rundong He***, Zhongyi Han, Zhicong Lin, Yongshun Gong, Yilong Yin.  (Note: * denotes the corresponding author)
   
    CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
@@ -75,7 +79,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
 
-  Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) 
+  Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) [paper](https://arxiv.org/abs/2503.00884)
 
 * Wan Su; Fan Wang; **Rundong He**; Zhongyi Han; Yilong Yin
 
