@@ -42,7 +42,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * 2025/02/28: 1 paper accepted to Neural Networks.
 * 2025/01/23: 1 paper accepted to ICLR 2025.
 * 2024/12/03: 1 paper accepted to BIBM 2024.
-* 2024/11/17: Congratulations to Yuan Yue (co-advised with Prof. Yilong Yin), for winning the National Scholarship (2023-2024).
+* 2024/11/17: Congratulations to Yue Yuan (co-advised with Prof. Yilong Yin), for winning the National Scholarship (2023-2024).
 * 2024/05/31: 1 paper accepted to IJCV.
 * 2024/03/05: 1 paper accepted to ICLR 2024 Workshop ME-FoMo.
 * 2024/02/27: 1 paper accepted to CVPR 2024.
