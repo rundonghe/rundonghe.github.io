@@ -80,10 +80,6 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
 
   Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) [paper](https://arxiv.org/abs/2503.00884)
-
-* Wan Su; Fan Wang; **Rundong He**; Zhongyi Han; Yilong Yin
-
-  Navigating the Unknown: A Novel MGUAN Framework for Medical Image Recognition Across Dynamic Domains. BIBM 2024 (CCF B)
   
 * Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
   
@@ -116,6 +112,10 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * **Rundong He**, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin.
 
    Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. CICAI 2021 [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93049-3_29.pdf)
+
+* Wan Su; Fan Wang; **Rundong He**; Zhongyi Han; Yilong Yin
+
+  Navigating the Unknown: A Novel MGUAN Framework for Medical Image Recognition Across Dynamic Domains. BIBM 2024 (CCF B)
 
 * Fan Wang; Zhongyi Han; Zhiyan Zhang; **Rundong He**; Yilong Yin
 
