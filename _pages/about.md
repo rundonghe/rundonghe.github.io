@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin). In addition, I have done research at Westlake University with [Prof. Tailin Wu](https://tailin.org) in 2023.09-2024.02. Currently doing a postdoc with [Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/) at Hong Kong Polytechnic University.
+Currently doing a postdoc with [Prof. Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/) at Hong Kong Polytechnic University. I obtained my doctoral degree in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin), worked with [Zhongyi Han](https://zhyhan.github.io/). In addition, I have done research at Westlake University with [Prof. Tailin Wu](https://tailin.org) in 2023.09-2024.02. 
 
 
 
