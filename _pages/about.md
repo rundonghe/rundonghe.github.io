@@ -39,6 +39,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * AAAI 2023-2024
 
 ## Recent News
+* 2025/10/04: 1 paper accepted to Pattern Recognition.
 * 2025/02/28: 1 paper accepted to Neural Networks.
 * 2025/01/23: 1 paper accepted to ICLR 2025.
 * 2024/12/03: 1 paper accepted to BIBM 2024.
@@ -136,6 +137,9 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 
 ### Accepted Journal
+* **Rundong He**, Zhongyi Han, Xiushan Nie, Qi Wei, Yilong Yin.
+  
+Class-Mismatched Semi-Supervised Learning From A New Perspective. Pattern Recognition (PR), SCI 1区, 2025
 
 * **Rundong He**, Zhongyi Han, Xiushan Nie, Yilong Yin, Xiaojun Chang.
 
