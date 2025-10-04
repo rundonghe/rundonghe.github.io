@@ -139,7 +139,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 ### Accepted Journal
 * **Rundong He**, Zhongyi Han, Xiushan Nie, Qi Wei, Yilong Yin.
   
-Class-Mismatched Semi-Supervised Learning From A New Perspective. Pattern Recognition (PR), SCI 1区, 2025
+   Class-Mismatched Semi-Supervised Learning From A New Perspective. Pattern Recognition (PR), SCI 1区, 2025
 
 * **Rundong He**, Zhongyi Han, Xiushan Nie, Yilong Yin, Xiaojun Chang.
 
