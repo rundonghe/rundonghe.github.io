@@ -26,6 +26,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 2015.09-2019.06: B.E. in Shandong University (Jinan).
 
 **Services [Program committee or reviewer for conferences] :**
+* IJCV
 * TNNLS
 * IJCAI 2024
 * Neural Networks
