@@ -40,6 +40,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * AAAI 2023-2024
 
 ## Recent News
+* 2026/01/26: 1 paper accepted to ICLR 2026.
 * 2025/10/04: 1 paper accepted to Pattern Recognition.
 * 2025/02/28: 1 paper accepted to Neural Networks.
 * 2025/01/23: 1 paper accepted to ICLR 2025.
