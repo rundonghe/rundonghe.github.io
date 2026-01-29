@@ -81,6 +81,10 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 ### Accepted Conference
 
+* **Rundong He**; Jieming Shi
+  
+Prior-free Tabular Test-time Adaptation. ICLR 2025 (清华推荐A类) 
+
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
 
   Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) [paper](https://arxiv.org/abs/2503.00884)
