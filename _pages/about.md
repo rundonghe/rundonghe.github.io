@@ -82,15 +82,15 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 ### Accepted Conference
 
-* **Rundong He**; Jieming Shi
+* **Rundong He**; Jieming Shi.
   
   Prior-free Tabular Test-time Adaptation. ICLR 2026 (清华推荐A类) 
 
-* **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu
+* **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu.
 
   Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) [paper](https://arxiv.org/abs/2503.00884)
   
-* Yue Yuan, **Rundong He***, Yicong Dong, Zhongyi Han, Yilong Yin.  (Note: * denotes the corresponding author)
+* Yue Yuan; **Rundong He***; Yicong Dong; Zhongyi Han; Yilong Yin.  (Note: * denotes the corresponding author)
   
    Discriminability-Driven Channel Selection for Out-of-Distribution Detection. CVPR 2024 (CCF A) [code](https://github.com/rm1972/DDCS)
 
@@ -128,7 +128,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 * Fan Wang; Zhongyi Han; Zhiyan Zhang; **Rundong He**; Yilong Yin
 
-  MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation. CVPR 2023 (CCF A). 
+  MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation CVPR 2023 (CCF A). 
 
 * Zhongyi Han; Zhiyan Zhang; Fan Wang; **Rundong He**; Wan Su; Yilong Yin
 
@@ -140,12 +140,12 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
   
 * Zhongyi Han, **Rundong He**, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin.
 
-   Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (IPMI 2021, 医学顶会). [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-78191-0_47.pdf)
+  Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (IPMI 2021, 医学顶会). [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-78191-0_47.pdf)
 
 
 ### Accepted Journal
 
-* Yicong Dong，**Rundong He***，Zhongyi Han，Jieming Shi，Yilong Yin
+* Yicong Dong; **Rundong He***; Zhongyi Han; Jieming Shi; Yilong Yin.
 
    SA-Diff: Semantic-Aware Graph Outlier Generation via Diffusion Models for Graph Out-of-Distribution Detection. KBS (SCI 1区), 2026.
 
