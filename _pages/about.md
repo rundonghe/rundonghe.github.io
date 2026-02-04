@@ -40,6 +40,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * AAAI 2023-2024
 
 ## Recent News
+* 2026/02/04: 1 paper accepted to KBS.
 * 2026/01/26: 1 paper accepted to ICLR 2026.
 * 2025/10/04: 1 paper accepted to Pattern Recognition.
 * 2025/02/28: 1 paper accepted to Neural Networks.
@@ -143,6 +144,11 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 
 ### Accepted Journal
+
+* Yicong Dong，**Rundong He***，Zhongyi Han，Jieming Shi，Yilong Yin
+
+   SA-Diff: Semantic-Aware Graph Outlier Generation via Diffusion Models for Graph Out-of-Distribution Detection. KBS (SCI 1区), 2026.
+
 * **Rundong He**, Zhongyi Han, Xiushan Nie, Qi Wei, Yilong Yin.
   
    Class-Mismatched Semi-Supervised Learning From A New Perspective. Pattern Recognition (PR), SCI 1区, 2025
@@ -157,7 +163,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 * **Rundong He**; Zhongyi Han; Yilong Yin. 
 
-   Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift. KBS (JCR Q1), 2022.
+   Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift. KBS (SCI 1区), 2022.
 
 * Qikai Wang#, **Rundong He**#, Yongshun Gong, Chunxiao Ren, Haoliang Sun, Xiaoshui Huang, Yilong Yin.  (Note: # denotes the co-first author)
   
