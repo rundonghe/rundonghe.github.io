@@ -145,7 +145,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 ### Accepted Journal
 
-* Yicong Dong; **Rundong He***; Zhongyi Han; Jieming Shi; Yilong Yin.
+* Yicong Dong; **Rundong He***; Zhongyi Han; Jieming Shi; Yilong Yin. (Note: * denotes the corresponding author)
 
    SA-Diff: Semantic-Aware Graph Outlier Generation via Diffusion Models for Graph Out-of-Distribution Detection. KBS (SCI 1区), 2026.
 
